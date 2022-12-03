@@ -1,14 +1,11 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    width: 500px
+    animation: rotation 8s infinite linear
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    bottom: 1px
+    right: 6%
+    z-index: 
 
 
 @keyframes float1
@@ -17,3 +14,251 @@
 
   100%
     transform: translateY(0px)
+
+@-webkit-keyframes rotation 
+  from 
+    -webkit-transform: rotate(0deg)  
+  to 
+    -webkit-transform: rotate(359deg)  
+
+.bg2
+  background-image: url('../assets/curso/temas/tema1/bg-slider-pasos.svg')    
+  position: relative
+  width: 100% 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 30px  
+
+.bg3
+  background-image: url('../assets/curso/temas/tema1/bg-tema1.png')    
+  background-repeat: no-repeat    
+
+.bg4
+  background-image: url('../assets/curso/temas/tema1/bg-slider-2.svg')    
+  position: relative
+  width: 100% 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 30px  
+
+.bg5
+  background-image: url('../assets/curso/temas/tema2/img1.png')    
+  background-repeat: no-repeat
+
+.bg6
+  background-image: url('../assets/curso/temas/tema2/i-list.png')    
+  background-repeat: no-repeat  
+  background-size: 1rem
+
+
+.mg-img
+   margin: -48px !important 
+
+@media (max-width:500px)   
+    .mg-img
+      margin: -0px !important  
+
+.mg-img-final
+   padding-bottom: 148px !important
+   padding-top: 52px !important
+
+@media (max-width:500px)   
+    .mg-img-final
+      margin: -0px !important                
+      padding-top: 0px !important 
+
+
+.linea-tiempo-c__header__btn--left  
+  background-color: #FDA829 !important
+
+.linea-tiempo-c__header__btn--right
+  background-color: #FDA829 !important  
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
+  border-color: #E26C1E !important
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot:after
+  background-color: #E26C1E !important
+
+.lista-ol--cuadro__vineta
+  background-color: #148D80  !important
+
+.color-bloque-texto:before
+  background-color:#D9F2A1  !important
+
+.bloque-texto-b:before 
+  content: ''
+  display: block
+  position: absolute
+  top: -9%
+  bottom: 48%
+  left: -5%
+  right: 34% 
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none  
+
+.avatar-2
+  position: absolute;
+  top: 83%;
+  right: 46rem;
+  z-index: 0;
+  width: 36%;
+  @media (max-width: 1000px)
+    display: none      
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 2rem  
+  & > *
+    position: relative
+  h5 
+    color: #000
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #F3F9FF
+    border-radius: 30px
+
+  @media (max-width: 1000px)
+    padding-right: 2rem     
+
+
+.tarjeta-acordeon-verde
+    background-color: #E1F0EF !important  
+
+.acordion__activo 
+    background-color: #F9F7EF !important   
+
+.bloque-texto-b-1:before 
+  background-color:#D9F2A1  !important
+  content: ''
+  display: block
+  position: absolute
+  top: -9%
+  bottom: 40%
+  left: -5%
+  right: 34%     
+
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  background-color: #F67409
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #F67409  
+
+.slyder-a__bullets__item--active
+  background-color: #1B3F5E !important
+  border: none  
+
+.slyder-a__bullets__item
+  background-color: #A0AEB9 
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  color: #fff !important 
+
+.color-columnas
+  background-color: #F9F7EF !important
+  height: 1275px !important
+
+hr
+ width: 80% !important
+ margin: 5% !important  
+
+.tabs-c__content-item  
+  background-color: #E1F0EF !important
+
+.tabs-c__header
+   margin-bottom: 0px !important       
+   background-color: #E1F0EF !important
+
+.tabs-c.color-acento-botones .tabs-c__tab--active
+  font-weight: bold !important
+
+
+.bloque-texto-b1:before
+  content: '' !important
+  display: block !important
+  position: absolute !important
+  top: -22% !important
+  bottom: 48% !important
+  left: 0% !important
+  right: 57% !important
+
+.bloque-texto-b1
+  position: relative;
+
+.bloque-texto-b2:before
+  content: '' !important
+  display: block !important
+  position: absolute !important
+  top: -42% !important
+  bottom: -34% !important
+  left: 0% !important
+  right: 57% !important
+
+.bloque-texto-b2
+  position: relative;  
+  
+ 
+.tarjeta-acordeon-gris
+  background-color:#F6F6F6 !important  
+
+.tarjeta-acordeon-gris.acordion__activo 
+  background-color: #E8E8E8 !important
+
+.tarjeta-avatar
+  width: 260px !important
+  height: 370px !important
+
+.color-tarjeta-avatar
+  background-color: #F3F9FF !important   
+
+.bloque-img-left 
+  left: 50% !important
+
+@media (max-width:500px)  
+  .bloque-img-left  
+    left: 0% !important 
+
+
+.bloque-text-rigth
+   right: 30% !important 
+@media (max-width:500px)  
+  .bloque-text-rigth  
+    right: 0% !important 
+
+.bloque-texto-g__texto 
+  position: relative
+  width: 70%
+  background-color: rgba(255, 255, 255, 0.95)  
+
+.mt-texto
+  margin-top: 8rem!important  
+
+.color-tarjeta-punto-caliente
+  background-color:  #DEE4F0 !important
+
+.img-infografica.color-acento-botones .img-infografica__item__numero  
+  color: #fff !important        
+
+.color-tarjeta-animada
+  background-color: #DEE4F0 !important 
+
+.tarjeta-animada-tamano
+  height: 300px !important   
+
+.color-cajon  
+  background-color:  #9ED0CB !important
