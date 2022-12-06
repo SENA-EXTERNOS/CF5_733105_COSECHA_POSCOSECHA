@@ -21,6 +21,10 @@
           .row
             .col-md-6.mb-4.mb-md-0
               p Esta recolección la realizan las personas, sean los mismos productores u operadores, que conocen e identifican las características de las plantas que se encuentran listas para la recolección. Se recomienda que el proceso sea con rapidez y en el menor tiempo, para evitar la exposición del producto al sol, al viento seco y a la lluvia. 
+              .row.align-items-end.bg6 
+                p.mx-3 El personal de cosecha debe estar con las manos limpias las uñas cortas, el pelo recogido y no fumar ni beber durante la cosecha.
+              .row.align-items-end.bg6 
+                p.mx-3 En los arboles frutales no debe recogerse fruto del suelo.
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img3.png', alt='')
@@ -28,6 +32,16 @@
           .row
             .col-md-6.mb-4.mb-md-0              
               p Los equipos y utensilios empleados para la recolección (cestos o canastos de mimbre, bolsas de fique o lona) deben ser adecuados según el tipo de planta, para que no se lesione ni se maltrate el producto. También se pueden utilizar plataformas o escaleras para alcanzar los árboles más altos.
+              .row.align-items-end.bg6 
+                p.mx-3 Juntar los productos con cuidado evitando los golpes.  
+              .row.align-items-end.bg6 
+                p.mx-3 Las frutas y verduras cosechadas deben colocarse en recipientes limpios (lavado o nuevos) sin tocar el suelo.  
+              .row.align-items-end.bg6 
+                p.mx-3 No utilizar recipientes de los químicos y fertilizantes para acopiar la cosecha.
+              .row.align-items-end.bg6 
+                p.mx-3 Las frutas y verduras cosechadas deben ser colocadas a la sombra y lejos de animales o deposito de químicos o fertilizantes.
+              .row.align-items-end.bg6 
+                p.mx-3 Registrar la cosecha utilizando una planilla de cosecha. Identificar el producto comercial. 
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img4.png', alt='')    

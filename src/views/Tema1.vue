@@ -152,7 +152,7 @@
 
 
       .row.justify-content-center.mt-5 
-        .col-md-7
+        .col-md-7.mt-4
           p Por otra parte, se conoce técnicamente como cosecha a la recolección de los productos. Es la operación donde se desprenden de la planta los frutos que estén fisiológica o comercialmente maduros. Es importante realizar dicho proceso según los parámetros establecidos con el objetivo de identificar el estado del fruto al momento de la recolección y así garantizar su calidad durante la fase de poscosecha. La recolección está determinada por el grado de maduración y debe ser en el momento adecuado.
         .col-md-5
           figure(data-aos="fade-left")
@@ -170,7 +170,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img13.png', alt='')    
           .col-md-7
-            p.text-justify Determinan el momento de cosecha por sus cambios fisiológicos en frutos y vegetales, tales como: la desaparición de astringencia, sabor agrio, cambios en acidez, síntesis de pigmentos con eliminación de clorofila, ablandamiento de tejidos por degradación de la pectina y desarrollo de aromas y sabores.
+            p.text-justify Determinan el momento de cosecha por sus cambios fisiológicos en frutos y vegetales, tales comrowo: la desaparición de astringencia, sabor agrio, cambios en acidez, síntesis de pigmentos con eliminación de clorofila, ablandamiento de tejidos por degradación de la pectina y desarrollo de aromas y sabores.
             p.text-justify Estos cambios en las frutas y verduras, permiten obtener el sabor natural de los frutos y las verduras cultivadas. 
             p.text-justify Además, la actividad respiratoria de estos permite clasificar los frutos en dos categorías.
       div(titulo="Frutos climatéricos").px-5.py-3
