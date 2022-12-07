@@ -95,7 +95,7 @@
 
     <Separador></Separador>
     #t_2_1.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.1. Buenas prácticas de manufactura (BPM)   
+      h2 2.1 Buenas prácticas de manufactura (BPM)   
 
     .row.justify-content-center.mb-5 
       .bloque-texto-b1.color-bloque-texto
@@ -113,7 +113,7 @@
 
     <Separador></Separador>
     #t_2_2.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.2. Recepción
+      h2 2.2 Recepción
 
     p El proceso de recepción implica algunos aspectos importantes a tener en cuenta para conservar la calidad y sanidad de los productos.      
     .row.justify-content-center 
@@ -133,7 +133,7 @@
 
     <Separador></Separador>
     #t_2_3.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.3. Limpieza
+      h2 2.3 Limpieza
 
     p Cuando hablamos de limpieza en el centro de recepción, se hace referencia a las actividades de descarte en productos que no reúnen las condiciones necesarias para la distribución y comercialización final.
 
@@ -195,7 +195,7 @@
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/img17.png' alt='')
         .tarjeta.he-tarjetas.color-tarjeta-avatar.p-3
-          h4.text-center.mt-5 Tempreratura
+          h4.text-center.mt-5 Temperatura
           p.text-center La temperatura establece el límite de estabilidad del desinfectante.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema2/img18.png' alt='')
@@ -236,7 +236,7 @@
 
     <Separador></Separador>
     #t_2_6.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.6. Envase y empaque
+      h2 2.6 Envase y empaque
 
     p Esto se logra a través del envase y el empaque, dos elementos distintos cuya diferencia radica en el grado de contacto que tienen con el producto. Es el envase la pieza que está en contacto directo, es decir, el recipiente que contiene al producto; mientras que el empaque es la envoltura o material que lo protege y tiene fines comerciales. No todos los productos cuentan con envases, muchos solo tienen empaque.
 
@@ -314,7 +314,7 @@
             p #[span.text-bold Ecológica, ]  al hacer uso de la tecnología o desarrollo para elaborarlos con materiales menos contaminantes.    
 
 
-        .tarjeta.color-tarjeta-punto-caliente(x="40%" y="22%" numero="8" )  
+        .tarjeta.color-tarjeta-punto-caliente(x="30%" y="48%" numero="8" )  
           .row.justify-content-center.p-4
             p #[span.text-bold Social, ]  por medio de campañas de educación ambiental enfocadas a la adecuada disposición final que minimice el impacto negativo sobre el ambiente.                                                   
 
@@ -324,7 +324,7 @@
 
     <Separador></Separador>
     #t_2_7.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.7. Etiquetado
+      h2 2.7 Etiquetado
 
     p.mt-5.mb-5 Etiquetar o rotular consiste en incluir la información más relevante de los productos para que sea conocida por el consumidor.
 
@@ -366,7 +366,7 @@
 
     <Separador></Separador>
     #t_2_8.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.8. Almacenamiento
+      h2 2.8 Almacenamiento
 
     p El almacenamiento, al igual que las demás actividades de poscosecha, tiene la finalidad de alargar la vida útil y conservar la calidad de los productos. Existen diversas técnicas de almacenamiento, a saber:       
 
@@ -385,7 +385,7 @@
           .col-md-8
             p.text-justify El almacenamiento también permite estabilizar y regular los procesos de oferta y demanda porque hace posible un control en la comercialización, pues al guardarse el producto se pueden tener provisiones para el tiempo de no cosecha. 
             h4.mx-4 Refrigeración y congelamiento
-            p.mx-4.text-justify Se provee las condiciones de temperatura y humedad ideales y requeridas para prolongar la vida de anaquel, mediante el control de forma artificial de la temperatura, es decir por medio del almacenamiento con enfriamiento 
+            p.mx-4.text-justify Se provee las condiciones de temperatura y humedad ideales y requeridas para prolongar la vida de anaquel, mediante el control de forma artificial de la temperatura, es decir por medio del almacenamiento con enfriamiento. 
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/img32.png', alt='')    
@@ -395,7 +395,7 @@
           .col-md-8
             p.text-justify No obstante, se deben tener presentes y proveer las condiciones adecuadas durante el almacenamiento para evitar la continuidad de los procesos de desarrollo propios de los productos como brotado, alargamiento, enraizamiento, reverdecimiento, germinación de semillas y endurecimiento. 
             h4.mx-4 Atmósferas controladas y modificadas
-            p.mx-4.text-justify Permiten adicionar, extraer o cambiar la concentración de gases que la componen. como el dióxido de carbono (CO2), oxígeno (02). etileno (C2H4). nitrógeno (N). con la finalidad de generar un retraso en los cambios fisiológicos, biológicos y químicos propios del ciclo de vida de los productos 
+            p.mx-4.text-justify Permiten adicionar, extraer o cambiar la concentración de gases que la componen. como el dióxido de carbono (CO2), oxígeno (02). etileno (C2H4). nitrógeno (N). con la finalidad de generar un retraso en los cambios fisiológicos, biológicos y químicos propios del ciclo de vida de los productos.
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/img33.png', alt='')    
@@ -411,23 +411,23 @@
           img(src='@/assets/curso/temas/tema2/img34.png', alt='')         
       .col-md-6
         .row.align-items-end.bg6 
-          p.mx-3 Los sistemas de información en la empresa  La temperatura y humedad que deben estar monitoreadas y controladas  
+          p.mx-3 Los sistemas de información en la empresa  La temperatura y humedad que deben estar monitoreadas y controladas.  
         .row.align-items-end.bg6 
-          p.mx-3 El diseño adecuado que permite la circulación de aire 
+          p.mx-3 El diseño adecuado que permite la circulación de aire.
         .row.align-items-end.bg6 
-          p.mx-3 La de higiene y desinfección del lugar 
+          p.mx-3 La de higiene y desinfección del lugar. 
         .row.align-items-end.bg6 
-          p.mx-3 Las condiciones con que ingresa el producto
+          p.mx-3 Las condiciones con que ingresa el producto.
         .row.align-items-end.bg6 
-          p.mx-3 La rotación de los productos   
+          p.mx-3 La rotación de los productos.  
         .row.align-items-end.bg6 
-          p.mx-3 La forma de organizarlos y acomodarlos (no pegados a la pared ni al techo)   
+          p.mx-3 La forma de organizarlos y acomodarlos (no pegados a la pared ni al techo).   
         .row.align-items-end.bg6 
-          p.mx-3 El uso de estibas o plataformas para evitar colocar los productos directamente en el piso 
+          p.mx-3 El uso de estibas o plataformas para evitar colocar los productos directamente en el piso. 
         .row.align-items-end.bg6 
-          p.mx-3 La distancia entre arrume y arrume, entre arrume y pared y entre arrume y techo   
+          p.mx-3 La distancia entre arrume y arrume, entre arrume y pared y entre arrume y techo.   
         .row.align-items-end.bg6 
-          p.mx-3 Las medidas de seguridad y elementos de protección personal 
+          p.mx-3 Las medidas de seguridad y elementos de protección personal. 
     
     .row.justify-content-center.mt-5  
       .col-md-6
@@ -439,7 +439,7 @@
 
     <Separador></Separador>
     #t_2_9.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.9. Transporte y comercialización
+      h2 2.9 Transporte y comercialización
 
     p.mt-5.mb-5 Los métodos de transporte existentes más empleados son:
 

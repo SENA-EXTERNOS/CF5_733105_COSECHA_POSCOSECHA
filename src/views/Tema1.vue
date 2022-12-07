@@ -55,7 +55,7 @@
           .col-md-4
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema1/img4.png', alt='') 
-        .row(titulo="Desórdenes fisiológicos")
+        .row(titulo="Nutrición de la planta")
           .col-md-7.mb-4.mb-md-0.mt-5
             p Debido a algunas deficiencias que se presentan en las plantas por el exceso o falta de algún elemento en la nutrición; por ejemplo, la deficiencia de nitrógeno ―que causa disminución en el crecimiento, decoloración amarilla y rojiza en las hojas de algunas hortalizas―. También su crecimiento aumenta en la raíz, mientras en el tallo se da un crecimiento atrofiado. 
           .col-md-5
@@ -180,7 +180,7 @@
               img(src='@/assets/curso/temas/tema1/img14.png', alt='')    
           .col-md-7
             p.text-justify Las especies climatéricas tienen el aumento de la síntesis de etileno, el cual actúa como responsable del inicio de la maduración y dota al fruto de un mayor potencial para su regulación y de la posibilidad de continuar el proceso una vez recolectado, siempre y cuando haya adquirido la “capacidad para madurar”. 
-            p.text-justify Este comportamiento permite flexibilizar su recolección ya que se puede realizar durante cierto tiempo, en función de que su comercialización se efectúe inmediatamente, o tras la conservación frigorífica            
+            p.text-justify Este comportamiento permite flexibilizar su recolección ya que se puede realizar durante cierto tiempo, en función de que su comercialización se efectúe inmediatamente, o tras la conservación frigorífica.            
  
       div(titulo="Frutos no climatéricos").px-5.py-3
         .row
@@ -283,7 +283,7 @@
 
     <Separador></Separador>
     #t_1_2.titulo-segundo.color-acento-contenido.mt-5
-      h2 1.2. Requisitos e índices   
+      h2 1.2 Requisitos e índices   
 
     p.mt-5.mb-5 Específicamente, a la hora de la cosecha se deben tener presentes requisitos e índices que permitan llevar a cabo la recolección en el momento adecuado a fin de obtener productos con características acordes a las exigidas para ofrecer al mercado y según los márgenes de calidad establecidos. Por ejemplo:
     .row.mt-5.gx-5 
@@ -392,11 +392,11 @@
             hr  
 
     p.mt-5 Una vez los frutos alcanzan la madurez apropiada, se identifican por el productor para ser recogidos, es decir, para obtener el producto mediante la separación de la planta madre con la finalidad de evitar pérdidas por el ataque de insectos, desperdicios que conllevarían a pérdidas económicas. Aquí se terminan las fases de precosecha y cosecha para dar inicio de la preparación o acondicionamiento para el mercado.
-    p En el siguiente botón encontrará información detallada sobre la recolección. Clique para conocer más.
+    p En el siguiente botón encontrará información detallada sobre la recolección. De clic para conocer más.
                                       
     <Separador></Separador>
     #t_1_3.titulo-segundo.color-acento-contenido.mt-5
-      h2 1.3. Recolección 
+      h2 1.3 Recolección 
     
     .row.justify-content-center
       .col-md-11
