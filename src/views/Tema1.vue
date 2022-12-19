@@ -407,7 +407,7 @@
             .col-md-8
                 p.text-small.text-white Después de que el producto es recolectado (cosecha) inicia la fase de poscosecha. Durante este periodo se realiza un manejo que consiste en una serie de etapas y operaciones enfocadas a alargar la vida útil del producto y facilitar su comercialización y posterior consumo, ya sea en fresco o procesado; acciones que a la postre incrementan los ingresos de los productores y la utilidad en la industria. 
             .col-lg-1.mt-4
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 1 - Métodos y técnicas para el diagnóstico organizacional.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/ProtocoloPoscosecha_Tomate.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download                    
 
