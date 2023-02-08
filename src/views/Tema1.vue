@@ -7,7 +7,7 @@
         span 1
       h1 Precosecha y cosecha
 
-    p.mt-5.mb-5 Cuando se habla de precosecha se está aludiendo a la primera fase o primeras prácticas que se realizan en todo cultivo, sea de hortalizas, granos, frutales etc. Es una fase determinada por factores que influyen en la obtención de producciones de calidad.       
+    p.mt-5.mb-5 Cuando se habla de precosecha, se está aludiendo a la primera fase o primeras prácticas que se realizan en todo cultivo, sea de hortalizas, granos, frutales, etc. Es una fase determinada por factores que influyen en la obtención de producciones de calidad, de la siguiente manera:     
 
         
     .bg2.px-5.py-3.mb-5
@@ -158,11 +158,11 @@
           figure(data-aos="fade-left")
             img(src='@/assets/curso/temas/tema1/img12.png', alt='')  
 
-    <Separador></Separador>
+    separador
     #t_1_1.titulo-segundo.color-acento-contenido.mt-5
       h2 1.1  Factores fisiológicos
 
-    p.mt-5.mb-5 Aunque con la cosecha se interrumpan algunos procesos fisiológicos que realizan las plantas, otros continúan: la respiración, que consiste en la oxidación de sustancias orgánicas de alto potencial de energía, a través del intercambio gaseoso entre el fruto y la atmósfera, en compuestos más sensibles de menor potencial; la transpiración, la cual se da por el alto porcentaje de agua en los frutas y hortalizas; la maduración, que es un evento programado genéticamente y que implica, con síntesis de enzimas, la expresión de genes específicos.
+    p.mt-5.mb-5 Aunque con la cosecha se interrumpan algunos procesos fisiológicos que realizan las plantas, otros continúan: la respiración, que consiste en la oxidación de sustancias orgánicas de alto potencial de energía, a través del intercambio gaseoso entre el fruto y la atmósfera, en compuestos más sensibles de menor potencial; la transpiración, la cual se da por el alto porcentaje de agua en las frutas y hortalizas; la maduración, que es un evento programado genéticamente y que implica, con síntesis de enzimas, la expresión de genes específicos; veamos los factores fisiológicos:  
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
       .row(titulo="Factores fisiológicos ").px-5.py-2
         .row
@@ -195,8 +195,9 @@
         .bloque-texto-b.color-bloque-texto
           .bloque-texto-b__texto
             p Sin embargo, pueden presentarse trastornos en estos factores fisiológicos, los cuales se distinguen por el hecho de que no son causados por organismos vivos como virus, bacterias, hongos, insectos, etc., sino que son  resultado de la influencia de factores medioambientales y de las prácticas culturales llevadas a cabo durante el desarrollo del cultivo. 
+
         h4.mt-4.mb-5 Desequilibrio en los factores fisiológicos
-        p.mt-4.mb-5 El desequilibrio en los factores fisiológicos genera desajustes en la planta, que suelen ser causados por falta o exceso de algún elemento esencial para su ciclo de vida. Las  manifestaciones de sus efectos van desde síntomas leves, no apreciables a simple vista, a severas malformaciones y desarrollos raquíticos que pueden actuar como canal de acceso a patógenos, enfermedades, bacterias, hongos y plagas. Estos deben identificarse antes de la implementación de un cultivo porque, en la mayoría de los casos, pueden llegar a ser irreversibles.               
+        p.mt-4.mb-5 El desequilibrio en los factores fisiológicos, genera desajustes en la planta, los cuales suelen ser causados por falta o exceso de algún elemento esencial para su ciclo de vida. Las manifestaciones de sus efectos van desde síntomas leves, no apreciables a simple vista, a severas malformaciones y desarrollos raquíticos que pueden actuar como canal de acceso a patógenos, enfermedades, bacterias, hongos y plagas. Estos deben identificarse antes de la implementación de un cultivo porque, en la mayoría de los casos, pueden llegar a ser irreversibles. A continuación, se describen los factores fisiológicos que se pueden desequilibrar:             
       .col-md-4
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema1/img16.png', alt='')   
@@ -392,7 +393,7 @@
             hr  
 
     p.mt-5 Una vez los frutos alcanzan la madurez apropiada, se identifican por el productor para ser recogidos, es decir, para obtener el producto mediante la separación de la planta madre con la finalidad de evitar pérdidas por el ataque de insectos, desperdicios que conllevarían a pérdidas económicas. Aquí se terminan las fases de precosecha y cosecha para dar inicio de la preparación o acondicionamiento para el mercado.
-    p En el siguiente botón encontrará información detallada sobre la recolección. De clic para conocer más.
+
                                       
     <Separador></Separador>
     #t_1_3.titulo-segundo.color-acento-contenido.mt-5
@@ -405,7 +406,7 @@
             .col-1.mt-2
                 img(src="@/assets/curso/temas/tema1/img35.png")
             .col-md-8
-                p.text-small.text-white Después de que el producto es recolectado (cosecha) inicia la fase de poscosecha. Durante este periodo se realiza un manejo que consiste en una serie de etapas y operaciones enfocadas a alargar la vida útil del producto y facilitar su comercialización y posterior consumo, ya sea en fresco o procesado; acciones que a la postre incrementan los ingresos de los productores y la utilidad en la industria. 
+                p.text-small.text-white Después de que el producto es recolectado (cosecha) inicia la fase de poscosecha. Durante este periodo se realiza un manejo que consiste en una serie de etapas y operaciones enfocadas a alargar la vida útil del producto y facilitar su comercialización y posterior consumo, ya sea en fresco o procesado; acciones que, a la postre, incrementan los ingresos de los productores y la utilidad en la industria.
             .col-lg-1.mt-4
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/ProtocoloPoscosecha_Tomate.pdf')" target="_blank")
                   span Descargar

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Cosecha y poscosecha',
     descripcionCurso:
-      'En este componente formativo se abordan temáticas relacionadas con la precosecha, cosecha y poscosecha de los productos agrícolas, etapas en las que se lleva a cabo una serie de actividades con la finalidad de disminuir las pérdidas a través de un adecuado manejo técnico que permita la obtención de productos de buena calidad.',
+      'En este componente formativo, se abordan temáticas relacionadas con la precosecha, cosecha y poscosecha de los productos agrícolas, etapas en las que se lleva a cabo una serie de actividades con la finalidad de disminuir las pérdidas a través de un adecuado manejo técnico que permita la obtención de productos con buena calidad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -81,38 +81,26 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.4',
-            titulo: 'Selección y clasificación ',
+            titulo: 'Envase y empaque',
             hash: 't_2_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.5',
-            titulo: 'Desinfección',
+            titulo: 'Etiquetado',
             hash: 't_2_5',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.6',
-            titulo: 'Envase y empaque',
+            titulo: 'Almacenamiento',
             hash: 't_2_6',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.7',
-            titulo: 'Etiquetado',
-            hash: 't_2_7',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.8',
-            titulo: 'Almacenamiento',
-            hash: 't_2_8',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.9',
             titulo: 'Transporte y comercialización',
-            hash: 't_2_9',
+            hash: 't_2_7',
           },
         ],
       },
@@ -161,7 +149,7 @@ export default {
     {
       tema: 'Precosecha y cosecha',
       referencia:
-        'Fischer, G., Melgarejo, L. M., & Cutler, J. (2018). Factores precosecha que influyen en la calidad de las frutas pasifloráceas. <i>Agronomía Colombiana</i>, 36(3), 217-226. ',
+        'Fischer, G., Melgarejo, L. M., & Cutler, J. (2018). Factores precosecha que influyen en la calidad de las frutas pasifloráceas. <i>Agronomía Colombiana,</i> 36(3), p. 217-226.',
       tipo: 'Artículo',
       link:
         'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-99652018000300217&lng=es&nrm=iso&tlng=en',
@@ -169,21 +157,21 @@ export default {
     {
       tema: 'Poscosecha',
       referencia:
-        'Ecosistemas de Recursos Educativos ECORED. (2022). Manejo de poscosecha',
+        'Ecosistemas de Recursos Educativos ECORED. (2022).<i> Manejo de poscosecha</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=EVrRQkGnjqs',
     },
     {
       tema: 'Poscosecha',
       referencia:
-        'Food and Agriculture Organization of the United Nations FAO. (2013). Manejo poscosecha, procesamiento e higiene de frutas y hortalizas. ',
+        'Food and Agriculture Organization of the United Nations FAO. (2013). <i>Manejo poscosecha, procesamiento e higiene de frutas y hortalizas</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=63aguf2YXo0',
     },
     {
-      tema: 'Empaque y envase',
+      tema: 'Poscosecha',
       referencia:
-        'Procolombia. (2016). Manual del empaque y embalaje para exportación.',
+        'Procolombia. (2016). <i>Manual del empaque y embalaje para exportación</i>',
       tipo: 'Manual',
       link:
         'https://procolombia.co/sites/default/files/manual_de_empaque_y_embalaje_para_exportacion.pdf',
@@ -243,19 +231,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Armendariz Sanz, J. L. (2017). <i>Seguridad e higiene en la manipulación de alimentos 3</i>. Editorial Paraninfo. ',
-      link:
-        'https://books.google.es/books?hl=es&lr=&id=7lruDwAAQBAJ&oi=fnd&pg=PR1&dq=limpieza+y+desinfecci%C3%B3n+de+alimentos&ots=FXlirt2eYf&sig=l1bZk7TLvhpKoaWxed5T6N7WaqM',
-    },
-    {
-      referencia:
         'Cámara de comercio de Bogotá. (2019). <i>Seminario empaques y embalajes para exportación.</i> ',
       link:
         'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/3049/2949_empaques_y_embalajes2.pdf;sequen',
     },
     {
       referencia:
-        'García-Robles, J. M., Medina-Rodríguez, L. J., Mercado-Ruiz, J. N., & Báez-Sañudo, R. (2017). Evaluación de desinfectantes para el control de microorganismos en frutas y verduras. <i>Revista Iberoamericana de Tecnología Poscosecha</i>, 18(1), 9-22 ',
+        'García-Robles, J. M., Medina-Rodríguez, L. J., Mercado-Ruiz, J. N. & Báez-Sañudo, R. (2017). Evaluación de desinfectantes para el control de microorganismos en frutas y verduras. <i>Revista Iberoamericana de Tecnología Poscosecha, 18</i>(1), p. 9-22',
       link: 'https://www.redalyc.org/journal/813/81351597002/html/',
     },
     {
@@ -266,7 +248,7 @@ export default {
     },
     {
       referencia:
-        'Martínez-González, M. E., Balois-Morales, Ro., Alia-Tejacal, I., Cortes-Cruz, M A., Palomino-Hermosillo, Y. A., & López-Gúzman, G. G. (2017). Poscosecha de frutos: maduración y cambios bioquímicos. <i>Revista Mexicana de Ciencias Agrícolas, 8(spe19)</i>, 4075-4087',
+        'Martínez-González, M. E., Balois-Morales, Ro., Alia-Tejacal, I., Cortes-Cruz, M A., Palomino-Hermosillo, Y. A., & López-Gúzman, G. G. (2017). Poscosecha de frutos: maduración y cambios bioquímicos. <i>Revista Mexicana de Ciencias Agrícolas, 8</i>(19), p. 4075-4087.',
       link: 'https://doi.org/10.29312/remexca.v0i19.674',
     },
   ],

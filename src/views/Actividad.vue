@@ -10,8 +10,8 @@
             img(src="@/assets/curso/temas/ad.png", alt="")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Cuestionario de pre y poscosecha.
-        p.mb-4 Afianzar los conocimientos sobre precosecha, cosecha y poscosecha de productos agrícolas.
+          h2 Cosecha y poscosecha
+        p.mb-4 Apreciado aprendiz, a continuación, encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo:
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

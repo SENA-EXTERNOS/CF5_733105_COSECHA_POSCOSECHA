@@ -11,7 +11,7 @@
       .col-md-8.mt-5
         .bloque-texto-b.color-bloque-texto
           .bloque-texto-b__texto
-            p Existen dos sistemas de cosecha: manual y mecanizada, aunque en algunos cultivos se utilizan combinaciones de ambos. La elección de un sistema u otro depende, fundamentalmente, del cultivo considerado, del destino y, de manera muy especial, del tamaño del predio a ser cosechado. Teniendo en cuenta que la recolección manual es el sistema predominante para la recolección de frutas y hortalizas, mientras que la mecánica es preferida para hortalizas con fines industriales o que requieren cultivarse en grandes lotes. 
+            p Existen dos sistemas de cosecha: manual y mecanizada, aunque en algunos cultivos se utilizan combinaciones de ambos. La elección de un sistema u otro depende, fundamentalmente, del cultivo considerado, del destino y, de manera muy especial, del tamaño del predio a ser cosechado. Tener en cuenta que la recolección manual es el sistema predominante para la recolección de frutas y hortalizas, mientras que la mecánica es preferida para hortalizas con fines industriales o que requieren cultivarse en grandes lotes. Visualicemos los diferentes tipos de recolección:
       .col-md-3
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema2/img2.png', alt='') 
@@ -58,7 +58,7 @@
       .col-md-8.mt-5
         p Además, de que estas actividades ayudan a la conservación, permiten cumplir con las normas de la calidad del producto y minimizar o evitar las pérdidas de producción (directas e indirectas) que a su vez generan pérdidas económicas, debido a que los productos son susceptibles al deterioro por su fisiología, también debido a la inadecuada manipulación o factores microbiológicos, biológicas, químicas, físicos o mecánicas, las cuales se agudizan al implementar o realizar un mal manejo poscosecha.
         h4.mt-4.mb-5 Manejo de poscosecha 
-        p.mt-4.mb-5 Es importante conocer algunos factores que deterioran la calidad de los productos derivados de una inadecuada manipulación durante la poscosecha.
+        p.mt-4.mb-5 Es importante conocer algunos factores que deterioran la calidad de los productos derivados de una inadecuada manipulación durante la poscosecha y, por lo tanto, se debe tener un manejo adecuado de este espacio; tener en cuenta: 
       .col-md-4
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema2/img6.png', alt='') 
@@ -115,7 +115,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido.mt-5
       h2 2.2 Recepción
 
-    p El proceso de recepción implica algunos aspectos importantes a tener en cuenta para conservar la calidad y sanidad de los productos.      
+    p El proceso de recepción implica algunos aspectos importantes a tener en cuenta para conservar la calidad y la sanidad de los productos:     
     .row.justify-content-center 
       .col-md-5.mt-5
         figure(data-aos="fade-left")
@@ -135,7 +135,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido.mt-5
       h2 2.3 Limpieza
 
-    p Cuando hablamos de limpieza en el centro de recepción, se hace referencia a las actividades de descarte en productos que no reúnen las condiciones necesarias para la distribución y comercialización final.
+    p Cuando hablamos de limpieza en el centro de recepción, se hace referencia a las actividades de descarte en productos que no reúnen las condiciones necesarias para la distribución y comercialización final; tener en cuenta:
 
     TabsC.color-acento-botones.mt-5
       .py-3.py-md-4.px-5(titulo="Acondicionamiento")
@@ -157,7 +157,7 @@
     p.mt-5.mb-5 El método de limpieza de frutas y verduras es fundamental para la prevención de enfermedades que pueden transmitir los alimentos. 
 
     h3 Métodos de limpieza   
-    p.mt-5.mb-5 Para la asepsia de las frutas y verduras se usan métodos de limpieza en seco y en húmedo, como veremos a continuación.
+    p.mt-5.mb-5 Para la asepsia de las frutas y verduras, se usan métodos de limpieza en seco y en húmedo, como veremos a continuación:
 
     .bg2.px-5.py-3.mb-5
       LineaTiempoC.color-acento-contenido(text-small)(data-aos="fade-right")
@@ -175,7 +175,7 @@
             figure.mx-5
               img(src='@/assets/curso/temas/tema2/img15.png', alt='')
 
-    p.mt-5.mb-5 En seguida se verá la importancia de aprender a seleccionar, clasificar y desinfectar los productos recolectados con el fin de garantizar su calidad e inocuidad.
+    p.mt-5.mb-5 Vamos a conocer la importancia de aprender a seleccionar, clasificar y desinfectar los productos recolectados, con el fin de garantizar su calidad e inocuidad; visualicemos el siguiente video, para profundizar:
     h4.mb-5 Actividades de selección, clasificación y desinfección               
     figure
       .video
@@ -235,10 +235,10 @@
     p.mt-5.mb-5 Culminada la fase de acondicionamiento, los productos requieren ser protegidos de factores que generan deterioro durante el almacenamiento y la comercialización. Una protección que se busca mediante empaques y envases que eviten al máximo daños físicos como roturas, humedad, pérdidas de peso; daños químicos como contaminación microbiana, respiración y migración de gases; daños térmicos como cambios de temperatura; y daños mecánicos como golpes, deslizamientos y vibraciones. 
 
     <Separador></Separador>
-    #t_2_6.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.6 Envase y empaque
+    #t_2_4.titulo-segundo.color-acento-contenido.mt-5
+      h2 2.4 Envase y empaque
 
-    p Esto se logra a través del envase y el empaque, dos elementos distintos cuya diferencia radica en el grado de contacto que tienen con el producto. Es el envase la pieza que está en contacto directo, es decir, el recipiente que contiene al producto; mientras que el empaque es la envoltura o material que lo protege y tiene fines comerciales. No todos los productos cuentan con envases, muchos solo tienen empaque.
+    p Este proceso, se logra a través del envase y el empaque, dos elementos distintos, cuya diferencia radica en el grado de contacto que tienen con el producto. Es el envase la pieza que está en contacto directo, es decir, el recipiente que contiene el producto; mientras que, el empaque, es la envoltura o material que lo protege y tiene fines comerciales. No todos los productos cuentan con envases, muchos solo tienen empaque; a continuación, se describirá cada uno de estos:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
       .row(titulo="Empaques ").px-5.py-2
@@ -321,10 +321,7 @@
 
     p.mt-5.mb-5 Para lograr que los empaques y envases cumplan con la función comercial y se logre la aceptación y diferenciación del producto, se lleva a cabo un proceso de etiquetado. 
 
-
-    <Separador></Separador>
-    #t_2_7.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.7 Etiquetado
+    h2 Etiquetado
 
     p.mt-5.mb-5 Etiquetar o rotular consiste en incluir la información más relevante de los productos para que sea conocida por el consumidor.
 
@@ -365,8 +362,8 @@
     p.mt-5.mb-5 La  información del etiquetado puede estar registrada en uno o más idiomas. Es común el uso de símbolos o pictogramas regulados y empleados a nivel internacional que proporcionan indicaciones para la manipulación según las características físicas y químicas del producto. 
 
     <Separador></Separador>
-    #t_2_8.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.8 Almacenamiento
+    #t_2_6.titulo-segundo.color-acento-contenido.mt-5
+      h2 2.6 Almacenamiento
 
     p El almacenamiento, al igual que las demás actividades de poscosecha, tiene la finalidad de alargar la vida útil y conservar la calidad de los productos. Existen diversas técnicas de almacenamiento, a saber:       
 
@@ -438,8 +435,8 @@
 
 
     <Separador></Separador>
-    #t_2_9.titulo-segundo.color-acento-contenido.mt-5
-      h2 2.9 Transporte y comercialización
+    #t_2_7.titulo-segundo.color-acento-contenido.mt-5
+      h2 2.7 Transporte y comercialización
 
     p.mt-5.mb-5 Los métodos de transporte existentes más empleados son:
 
@@ -494,8 +491,7 @@
       .col-md-9
         .cajon.color-cajon
           .row.justify-content-center.p-3 
-            p Estimado aprendiz: para desarrollar el componente denominado Cosecha y poscosecha se trataron temas relacionados con las actividades realizadas en las fases de precosecha, cosecha y poscosecha, las cuales influyen directamente en la obtención de productos agrícolas inocuos y seguros para el consumo. Tales fases son de gran importancia debido a que permiten reducir las pérdidas mediante la realización adecuada de procesos que requieren de buenas prácticas agrícolas y de manufactura. 
-            p De esta manera damos fin al componente y le invitamos a leer detenidamente el capítulo y realizar las actividades incluidas para que afiance sus conocimientos.            
+            p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.         
       .col-md-3
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema2/img42.png', alt='')  
