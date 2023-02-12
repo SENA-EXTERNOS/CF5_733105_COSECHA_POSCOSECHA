@@ -13,7 +13,7 @@
     .bg2.px-5.py-3.mb-5
       LineaTiempoC.color-acento-contenido(text-small)(data-aos="fade-right")
         .row(titulo="Preparar el suelo")
-          .col-md-8.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0.fnd-1
             p A la hora implementar un cultivo en un suelo, sin conocer sus requerimientos, se generan diferentes riesgos que luego serán evidenciados en la planta o producción; por esta razón se recomienda realizar algunas prácticas que le permitan prepararlo para iniciar un cultivo.
             ol.lista-ol--cuadro.lista-ol--separador
               li 
@@ -38,26 +38,26 @@
 
         .row(titulo="Crecimiento de la planta y desarrollo del fruto")
           .col-md-8.mb-4.mb-md-0.mt-5
-            p Para así lograr un adecuado crecimiento de la planta y desarrollo del fruto teniendo en cuenta factores que controlan los procesos que ayudan a determinar la calidad del producto en el momento de la recolección, e igualmente su comportamiento y vida comercial durante la poscosecha.
+            p.fnd-1 Para así lograr un adecuado crecimiento de la planta y desarrollo del fruto teniendo en cuenta factores que controlan los procesos que ayudan a determinar la calidad del producto en el momento de la recolección, e igualmente su comportamiento y vida comercial durante la poscosecha.
           .col-md-3
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema1/img2.png', alt='')
         .row(titulo="Factores de precosecha")
           .col-md-8.mb-4.mb-md-0.mt-5
-            p Los factores de precosecha que influyen sobre la calidad son muy diversos y  están interrelacionados. Unos dependen intrínsecamente de la propia planta y son la integración del flujo de energía, el agua, los nutrientes… Otros son de tipo genético, ambiental, de cultivo; y determinan la calidad sensorial, nutricional y el comportamiento del fruto durante la poscosecha. 
+            p.fnd-1 Los factores de precosecha que influyen sobre la calidad son muy diversos y  están interrelacionados. Unos dependen intrínsecamente de la propia planta y son la integración del flujo de energía, el agua, los nutrientes… Otros son de tipo genético, ambiental, de cultivo; y determinan la calidad sensorial, nutricional y el comportamiento del fruto durante la poscosecha. 
           .col-md-4
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema1/img3.png', alt='')   
 
         .row(titulo="Desórdenes fisiológicos")
           .col-md-8.mb-4.mb-md-0.mt-5
-            p También regulan el desarrollo de desórdenes fisiológicos durante la conservación frigorífica que afectan la calidad y la vida comercial útil. 
+            p.fnd-1 También regulan el desarrollo de desórdenes fisiológicos durante la conservación frigorífica que afectan la calidad y la vida comercial útil. 
           .col-md-4
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema1/img4.png', alt='') 
         .row(titulo="Nutrición de la planta")
           .col-md-7.mb-4.mb-md-0.mt-5
-            p Debido a algunas deficiencias que se presentan en las plantas por el exceso o falta de algún elemento en la nutrición; por ejemplo, la deficiencia de nitrógeno ―que causa disminución en el crecimiento, decoloración amarilla y rojiza en las hojas de algunas hortalizas―. También su crecimiento aumenta en la raíz, mientras en el tallo se da un crecimiento atrofiado. 
+            p.fnd-1  Debido a algunas deficiencias que se presentan en las plantas por el exceso o falta de algún elemento en la nutrición; por ejemplo, la deficiencia de nitrógeno ―que causa disminución en el crecimiento, decoloración amarilla y rojiza en las hojas de algunas hortalizas―. También su crecimiento aumenta en la raíz, mientras en el tallo se da un crecimiento atrofiado. 
           .col-md-5
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema1/img5.png', alt='')   
@@ -192,12 +192,12 @@
 
     .row.justify-content-center 
       .col-md-8.mt-5
-        .bloque-texto-b.color-bloque-texto
+        .bloque-texto-b.color-bloque-texto.mb-5
           .bloque-texto-b__texto
             p Sin embargo, pueden presentarse trastornos en estos factores fisiológicos, los cuales se distinguen por el hecho de que no son causados por organismos vivos como virus, bacterias, hongos, insectos, etc., sino que son  resultado de la influencia de factores medioambientales y de las prácticas culturales llevadas a cabo durante el desarrollo del cultivo. 
 
-        h4.mt-4.mb-5 Desequilibrio en los factores fisiológicos
-        p.mt-4.mb-5 El desequilibrio en los factores fisiológicos, genera desajustes en la planta, los cuales suelen ser causados por falta o exceso de algún elemento esencial para su ciclo de vida. Las manifestaciones de sus efectos van desde síntomas leves, no apreciables a simple vista, a severas malformaciones y desarrollos raquíticos que pueden actuar como canal de acceso a patógenos, enfermedades, bacterias, hongos y plagas. Estos deben identificarse antes de la implementación de un cultivo porque, en la mayoría de los casos, pueden llegar a ser irreversibles. A continuación, se describen los factores fisiológicos que se pueden desequilibrar:             
+        h4 Desequilibrio en los factores fisiológicos
+        p.mb-5 El desequilibrio en los factores fisiológicos, genera desajustes en la planta, los cuales suelen ser causados por falta o exceso de algún elemento esencial para su ciclo de vida. Las manifestaciones de sus efectos van desde síntomas leves, no apreciables a simple vista, a severas malformaciones y desarrollos raquíticos que pueden actuar como canal de acceso a patógenos, enfermedades, bacterias, hongos y plagas. Estos deben identificarse antes de la implementación de un cultivo porque, en la mayoría de los casos, pueden llegar a ser irreversibles. A continuación, se describen los factores fisiológicos que se pueden desequilibrar:             
       .col-md-4
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema1/img16.png', alt='')   
@@ -287,8 +287,8 @@
       h2 1.2 Requisitos e índices   
 
     p.mt-5.mb-5 Específicamente, a la hora de la cosecha se deben tener presentes requisitos e índices que permitan llevar a cabo la recolección en el momento adecuado a fin de obtener productos con características acordes a las exigidas para ofrecer al mercado y según los márgenes de calidad establecidos. Por ejemplo:
-    .row.mt-5.gx-5 
-      .col-md-6
+    .row.mt-5.gx-5.align-self-stretch 
+      .col-lg-6.mb-md-5
         .p-3.color-columnas 
           .row 
             hr.mt-2
@@ -344,8 +344,8 @@
             .col-md-10
               h5 Químicos
               p.mt-3  Según el contenido en la composición química de cada producto, como el agua, la cual es la principal constituyente de las frutas y hortalizas, y asociada a la turbidez y jugosidad.  También es posible encontrar, como composición química, los ácidos, pigmentos, clorofila, carotenoides, flavonoides, minerales, vitaminas y enzimas. 
-            hr               	                                                               
-      .col-md-6
+                      	                                                               
+      .col-lg-6
         .p-3.color-columnas
           .row.mb-5 
             hr.mt-2
@@ -354,7 +354,7 @@
                 img(src='@/assets/curso/temas/tema1/img30.png', alt='')             
             .col-md-10
               h5 Índice de maduración
-              p.mt-3.mb-5  Pero adicional a estos, un índice determinante es el de maduración. Se encuentran diferentes tipos de madurez:
+              p.mt-3.mb-3  Pero adicional a estos, un índice determinante es el de maduración. Se encuentran diferentes tipos de madurez:
               
           .row.mb-5 
             hr.mt-2
@@ -363,7 +363,7 @@
                 img(src='@/assets/curso/temas/tema1/img31.png', alt='')             
             .col-md-10
               h5 Madurez fisiológica
-              p.mt-3.mb-5  Se refiere a la etapa del desarrollo de la fruta u hortaliza en la cual se ha producido el máximo crecimiento y desarrollo que le permitirán iniciar la producción, etapa que permite acelerar o retrasar esta maduración mediante métodos físicos y químicos.
+              p.mt-3.mb-3  Se refiere a la etapa del desarrollo de la fruta u hortaliza en la cual se ha producido el máximo crecimiento y desarrollo que le permitirán iniciar la producción, etapa que permite acelerar o retrasar esta maduración mediante métodos físicos y químicos.
               
           .row.mb-5 
             hr.mt-2
@@ -390,7 +390,7 @@
             .col-md-10
               h5 Madurez de consumo
               p.mt-3.mb-5  Estado en el cual el fruto ha adquirido las características propias de apariencia, consistencia, textura, sabor y  aroma para ser consumido. 
-            hr  
+              
 
     p.mt-5 Una vez los frutos alcanzan la madurez apropiada, se identifican por el productor para ser recogidos, es decir, para obtener el producto mediante la separación de la planta madre con la finalidad de evitar pérdidas por el ataque de insectos, desperdicios que conllevarían a pérdidas económicas. Aquí se terminan las fases de precosecha y cosecha para dar inicio de la preparación o acondicionamiento para el mercado.
 
@@ -399,19 +399,25 @@
     #t_1_3.titulo-segundo.color-acento-contenido.mt-5
       h2 1.3 Recolección 
     
-    .row.justify-content-center
-      .col-md-11
-        .tarjeta.color-acento-contenido.p-3.mt-5.mb-5
-          .row.justify-content-md-center
-            .col-1.mt-2
-                img(src="@/assets/curso/temas/tema1/img35.png")
-            .col-md-8
-                p.text-small.text-white Después de que el producto es recolectado (cosecha) inicia la fase de poscosecha. Durante este periodo se realiza un manejo que consiste en una serie de etapas y operaciones enfocadas a alargar la vida útil del producto y facilitar su comercialización y posterior consumo, ya sea en fresco o procesado; acciones que, a la postre, incrementan los ingresos de los productores y la utilidad en la industria.
-            .col-lg-1.mt-4
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/ProtocoloPoscosecha_Tomate.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download                    
+    p.mb-5 Después de que el producto es recolectado (cosecha) inicia la fase de poscosecha. Durante este periodo se realiza un manejo que consiste en una serie de etapas y operaciones enfocadas a alargar la vida útil del producto y facilitar su comercialización y posterior consumo, ya sea en fresco o procesado; acciones que, a la postre, incrementan los ingresos de los productores y la utilidad en la industria.
+               
 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .tarjeta.color-acento-contenido.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema1/img35.png")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  
+                  p Para ampliar la información, lo invitamos a ver el documento<b> Protocolo de buenas prácticas para poscosecha de tomate.</b>
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/ProtocoloPoscosecha_Tomate.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
  
 </template>
 

@@ -171,7 +171,7 @@ export default {
     {
       tema: 'Poscosecha',
       referencia:
-        'Procolombia. (2016). <i>Manual del empaque y embalaje para exportación</i>',
+        'Procolombia. (2016). <i>Manual del empaque y embalaje para exportación.</i>',
       tipo: 'Manual',
       link:
         'https://procolombia.co/sites/default/files/manual_de_empaque_y_embalaje_para_exportacion.pdf',

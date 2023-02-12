@@ -56,9 +56,10 @@
 
     .row.justify-content-center.mt-5 
       .col-md-8.mt-5
-        p Además, de que estas actividades ayudan a la conservación, permiten cumplir con las normas de la calidad del producto y minimizar o evitar las pérdidas de producción (directas e indirectas) que a su vez generan pérdidas económicas, debido a que los productos son susceptibles al deterioro por su fisiología, también debido a la inadecuada manipulación o factores microbiológicos, biológicas, químicas, físicos o mecánicas, las cuales se agudizan al implementar o realizar un mal manejo poscosecha.
-        h4.mt-4.mb-5 Manejo de poscosecha 
-        p.mt-4.mb-5 Es importante conocer algunos factores que deterioran la calidad de los productos derivados de una inadecuada manipulación durante la poscosecha y, por lo tanto, se debe tener un manejo adecuado de este espacio; tener en cuenta: 
+        p.mb-5 Además, de que estas actividades ayudan a la conservación, permiten cumplir con las normas de la calidad del producto y minimizar o evitar las pérdidas de producción (directas e indirectas) que a su vez generan pérdidas económicas, debido a que los productos son susceptibles al deterioro por su fisiología, también debido a la inadecuada manipulación o factores microbiológicos, biológicas, químicas, físicos o mecánicas, las cuales se agudizan al implementar o realizar un mal manejo poscosecha.
+
+        h4 Manejo de poscosecha 
+        p.mb-5 Es importante conocer algunos factores que deterioran la calidad de los productos derivados de una inadecuada manipulación durante la poscosecha y, por lo tanto, se debe tener un manejo adecuado de este espacio; tener en cuenta: 
       .col-md-4
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema2/img6.png', alt='') 
@@ -172,8 +173,8 @@
           .col-md-10.mb-4.mb-md-0.mt-3
             p Mientras que los métodos secos se caracterizan por ser más económicos y se emplean cuando las características del producto no permiten efectuar la limpieza con agua o sustancias líquidas. 
             p Dentro de estos se encuentran: abrasión, aspiración o soplado, cepillado, tamizado y separación magnética.
-            figure.mx-5
-              img(src='@/assets/curso/temas/tema2/img15.png', alt='')
+            figure.m-5
+              img(src='@/assets/curso/temas/tema2/img15.svg', alt='')
 
     p.mt-5.mb-5 Vamos a conocer la importancia de aprender a seleccionar, clasificar y desinfectar los productos recolectados, con el fin de garantizar su calidad e inocuidad; visualicemos el siguiente video, para profundizar:
     h4.mb-5 Actividades de selección, clasificación y desinfección               
@@ -321,7 +322,9 @@
 
     p.mt-5.mb-5 Para lograr que los empaques y envases cumplan con la función comercial y se logre la aceptación y diferenciación del producto, se lleva a cabo un proceso de etiquetado. 
 
-    h2 Etiquetado
+    separador
+    #t_2_5.titulo-segundo.color-acento-contenido
+      h2 2.5 Etiquetado
 
     p.mt-5.mb-5 Etiquetar o rotular consiste en incluir la información más relevante de los productos para que sea conocida por el consumidor.
 
@@ -468,7 +471,7 @@
               p.text-center Requiere de vías férreas y de vagones, confiere la ventaja de ser de menor costo y permitir el transporte de productos a distancias largas.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img38.png')})`}")
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mt-5.mb-5
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-tarjeta-animada.tarjeta-animada-tamano(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
@@ -487,13 +490,14 @@
               p.text-center Se requiere determinar el costo de transporte, analizar el estado de las vías, determinar el tiempo de recorrido, conocer el tipo de empaque y embalaje.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img41.png')})`}")  
 
-    .row.justify-content-center.mt-5
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-md-9
         .cajon.color-cajon
           .row.justify-content-center.p-3 
             p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.         
       .col-md-3
-        figure(data-aos="fade-left")
+        figure
           img(src='@/assets/curso/temas/tema2/img42.png', alt='')  
 
 </template>
