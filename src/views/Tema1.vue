@@ -8,10 +8,11 @@
       h1 Precosecha y cosecha
 
     p.mt-5.mb-5 Cuando se habla de precosecha, se está aludiendo a la primera fase o primeras prácticas que se realizan en todo cultivo, sea de hortalizas, granos, frutales, etc. Es una fase determinada por factores que influyen en la obtención de producciones de calidad, de la siguiente manera:     
-
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
         
     .bg2.px-5.py-3.mb-5
-      LineaTiempoC.color-acento-contenido(text-small)(data-aos="fade-right")
+      LineaTiempoC.color-acento-contenido.justify-content-center.align-items-center(text-small)(data-aos="fade-right")
         .row(titulo="Preparar el suelo")
           .col-md-8.mb-4.mb-md-0.fnd-1
             p A la hora implementar un cultivo en un suelo, sin conocer sus requerimientos, se generan diferentes riesgos que luego serán evidenciados en la planta o producción; por esta razón se recomienda realizar algunas prácticas que le permitan prepararlo para iniciar un cultivo.
@@ -36,7 +37,7 @@
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema1/img1.png', alt='')
 
-        .row(titulo="Crecimiento de la planta y desarrollo del fruto")
+        .row(titulo="Crecimiento de la planta y desarrollo del fruto").align-items-center
           .col-md-8.mb-4.mb-md-0.mt-5
             p.fnd-1 Para así lograr un adecuado crecimiento de la planta y desarrollo del fruto teniendo en cuenta factores que controlan los procesos que ayudan a determinar la calidad del producto en el momento de la recolección, e igualmente su comportamiento y vida comercial durante la poscosecha.
           .col-md-3
