@@ -39,7 +39,7 @@
               .row.align-items-end.bg6 
                 p.mx-3 No utilizar recipientes de los químicos y fertilizantes para acopiar la cosecha.
               .row.align-items-end.bg6 
-                p.mx-3 Las frutas y verduras cosechadas deben ser colocadas a la sombra y lejos de animales o deposito de químicos o fertilizantes.
+                p.mx-3 Las frutas y verduras cosechadas deben ser colocadas a la sombra y lejos de animales o depósito de químicos o fertilizantes.
               .row.align-items-end.bg6 
                 p.mx-3 Registrar la cosecha utilizando una planilla de cosecha. Identificar el producto comercial. 
             .col-md-6
@@ -49,7 +49,7 @@
         .py-3.py-md-4.px-5(titulo="Recolección mecánica")
           .row
             .col-md-6.mb-4.mb-md-0              
-              p Ofrece una mayor ventaja al productor ya que es rápida y genera un menor costo por tonelada recolectada. Se utiliza en cultivos de maduración concentrada, por ejemplo: arroz, limón, mango, guayaba; además, involucra costos de mantenimiento y del equipo durante todo el ciclo de siembra debido a que el cultivo se debe adaptar para que su producción sea de esta manera. Dicha adaptación tiene que ver con distancias entre hileras, nivelación del terreno, pulverizaciones, labores culturales y un cultivo resistente a un manipuleo más rudo. 
+              p Ofrece una mayor ventaja al productor, ya que es rápida y genera un menor costo por tonelada recolectada. Se utiliza en cultivos de maduración concentrada, por ejemplo: arroz, limón, mango, guayaba; además, involucra costos de mantenimiento y del equipo durante todo el ciclo de siembra debido a que el cultivo se debe adaptar para que su producción sea de esta manera. Dicha adaptación tiene que ver con distancias entre hileras, nivelación del terreno, pulverizaciones, labores culturales y un cultivo resistente a un manipuleo más rudo. 
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img5.png', alt='')
@@ -101,13 +101,13 @@
     .row.justify-content-center.mb-5 
       .bloque-texto-b1.color-bloque-texto
         .bloque-texto-b__texto.mx-4
-          p De acuerdo con el Decreto 2674 de 2013 las buenas prácticas de manufactura hacen alusión a los principios básicos y normas de higiene en los diferentes procesos: manipulación, preparación, procesamiento, envasado, almacenamiento, transporte y distribución, lo que favorece la obtención de productos inocuos, sanos y de buena calidad, al tiempo que se genera una mejor productividad. 
+          p De acuerdo con el Decreto 2674 de 2013, las buenas prácticas de manufactura hacen alusión a los principios básicos y normas de higiene en los diferentes procesos: manipulación, preparación, procesamiento, envasado, almacenamiento, transporte y distribución, lo que favorece la obtención de productos inocuos, sanos y de buena calidad, al tiempo que se genera una mejor productividad. 
 
     .row.justify-content-center    
       .col-md-7
         p Estas prácticas deben ser aplicadas desde el inicio y durante todo el proceso de poscosecha debido a que una vez cosechado el producto existen diversos factores que aumentan el riesgo de contaminación, entre ellos: presentar daños físicos y mecánicos (cortes, lesiones, magulladuras y heridas en general), la manipulación por diversas personas, la higiene del personal, la limpieza, desinfección y condiciones de las instalaciones y áreas de procesamiento, los insumos y equipos empleados, etc. 
         p Es importante resaltar y acoger las recomendaciones que se dan en las BPM para garantizar la higiene.
-        p La primera actividad del proceso de poscosecha es la recepción. Después de la recolección los productos cosechados son enviados a centros de acopio ―también conocidos como plantas de beneficio― donde son recibidos para inspección teniendo en cuenta factores como color, olor, apariencia, textura, consistencia, daños y demás propiedades organolépticas que se pueden percibir a simple vista y dar una primera impresión de cómo llega el producto, además de cómo ha sido el proceso de cosecha, recolección y manipulación.
+        p La primera actividad del proceso de poscosecha es la recepción. Después de la recolección, los productos cosechados son enviados a centros de acopio ―también conocidos como plantas de beneficio― donde son recibidos para inspección, teniendo en cuenta factores como color, olor, apariencia, textura, consistencia, daños y demás propiedades organolépticas que se pueden percibir a simple vista y dar una primera impresión de cómo llega el producto, además de cómo ha sido el proceso de cosecha, recolección y manipulación.
       .col-md-5.mt-3
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema2/img10.png') 
@@ -165,7 +165,7 @@
         .row(titulo="Métodos de limpieza húmedos")
           .col-md-10.mb-4.mb-md-0.mt-3
             p Son aquellos empleados cuando se requiere del agua y, en algunas ocasiones, de soluciones o productos químicos con propiedades desinfectantes que mejoran el resultado. Por tanto, mediante este método no solo se logran eliminar materiales extraños y contaminantes, sino que también se pueden remover los residuos de fertilizantes y agroquímicos. 
-            p Son los métodos húmedos más utilizados la aspersión, la inmersión y la flotación.
+            p Son los métodos húmedos más utilizados, la aspersión, la inmersión y la flotación.
             figure.mx-5
               img(src='@/assets/curso/temas/tema2/img14.png', alt='')
 
@@ -239,7 +239,7 @@
     #t_2_4.titulo-segundo.color-acento-contenido.mt-5
       h2 2.4 Envase y empaque
 
-    p Este proceso, se logra a través del envase y el empaque, dos elementos distintos, cuya diferencia radica en el grado de contacto que tienen con el producto. Es el envase la pieza que está en contacto directo, es decir, el recipiente que contiene el producto; mientras que, el empaque, es la envoltura o material que lo protege y tiene fines comerciales. No todos los productos cuentan con envases, muchos solo tienen empaque; a continuación, se describirá cada uno de estos:
+    p Este proceso se logra a través del envase y el empaque, dos elementos distintos, cuya diferencia radica en el grado de contacto que tienen con el producto. Es el envase, la pieza que está en contacto directo, es decir, el recipiente que contiene el producto; mientras que, el empaque, es la envoltura o material que lo protege y tiene fines comerciales. No todos los productos cuentan con envases, muchos solo tienen empaque; a continuación, se describirá cada uno de estos:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
       .row(titulo="Empaques ").px-5.py-2
@@ -263,7 +263,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img24.png', alt='')    
           .col-md-7
-            p.mt-texto.text-justify Sin embargo, cabe resaltar que ni los empaques ni los envases mejoran la calidad, sino que la conservan ya que sus principales funciones son contener, proteger, y distribuir. Es indispensable empacar productos limpios, seleccionados, clasificados y desinfectados. 
+            p.mt-texto.text-justify Sin embargo, cabe resaltar que ni los empaques ni los envases mejoran la calidad, sino que la conservan, ya que sus principales funciones son contener, proteger, y distribuir. Es indispensable empacar productos limpios, seleccionados, clasificados y desinfectados. 
                
       div(titulo="Tipos de envases").px-5.py-3
         .row
@@ -331,8 +331,6 @@
     figure(data-aos="fade-left") 
       img(src='@/assets/curso/temas/tema2/img27.png', alt='alt')
 
-    p.mt-5.mb-5 La información del etiquetado puede estar registrada en uno o más idiomas. Es común el uso de símbolos o pictogramas regulados y empleados a nivel internacional y que proporcionan indicaciones para la manipulación acordes con  las características físicas y químicas del producto. 
-
     h4.mt-5.mb-5 Información en la etiqueta
 
     .bg4.px-5.py-3.mb-5
@@ -376,7 +374,7 @@
           .col-md-8
             p.text-justify Por medio de técnicas de almacenamiento se permite regular la respiración y la pérdida de agua (transpiración), factores de deterioro de la calidad que se agudizan en medio de condiciones ambientales extremas porque se aceleran los procesos fisiológicos.
             h4.mx-4 Común
-            p.mx-4.text-justify Donde los productos se conservar bajo condiciones ambientales naturales, durante el tiempo que se mantengan las características propias (sensoriales, nutricionales, físicas, químicas) o se produzcan alteraciones mínimas, por medio el aprovechamiento de la ventilación natura. 
+            p.mx-4.text-justify Donde los productos se conservan bajo condiciones ambientales naturales, durante el tiempo que se mantengan las características propias (sensoriales, nutricionales, físicas, químicas) o se produzcan alteraciones mínimas, por medio el aprovechamiento de la ventilación natural. 
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/img31.png', alt='')    
@@ -395,7 +393,7 @@
           .col-md-8
             p.text-justify No obstante, se deben tener presentes y proveer las condiciones adecuadas durante el almacenamiento para evitar la continuidad de los procesos de desarrollo propios de los productos como brotado, alargamiento, enraizamiento, reverdecimiento, germinación de semillas y endurecimiento. 
             h4.mx-4 Atmósferas controladas y modificadas
-            p.mx-4.text-justify Permiten adicionar, extraer o cambiar la concentración de gases que la componen. como el dióxido de carbono (CO2), oxígeno (02). etileno (C2H4). nitrógeno (N). con la finalidad de generar un retraso en los cambios fisiológicos, biológicos y químicos propios del ciclo de vida de los productos.
+            p.mx-4.text-justify Permiten adicionar, extraer o cambiar la concentración de gases que la componen, como el dióxido de carbono (CO#[sub 2]), oxígeno (O#[sub 2]), etileno (C#[sub 2]H#[sub 4]), nitrógeno (N), con la finalidad de generar un retraso en los cambios fisiológicos, biológicos y químicos propios del ciclo de vida de los productos.
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/img33.png', alt='')    

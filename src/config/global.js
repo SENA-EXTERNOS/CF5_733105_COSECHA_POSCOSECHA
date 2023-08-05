@@ -244,7 +244,7 @@ export default {
       referencia:
         'Gobernación del Tolima, Universidad de Ibagué, Universidad del Tolima y Sena Regional Tolima. (2017). <i>Protocolo de buenas prácticas para poscosecha del tomate (Solanum lycopersicum)</i>. Logística para la cadena hortofrutícola del Tolima. Convenio N°1032-2013. ',
       link:
-        'http://logihfrutic.unibague.edu.co/buenas-practicas/guias-poscosecha-oculto/103-guia-poscosecha-tomate/file',
+        'https://r.search.yahoo.com/_ylt=AwrEryx0TMhkMGwViPqrcgx.;_ylu=Y29sbwNiZjEEcG9zAzMEdnRpZAMEc2VjA3Ny/RV=2/RE=1690877172/RO=10/RU=https%3a%2f%2fwww.researchgate.net%2fprofile%2fJhusty-Moreno-Henao%2fpublication%2f340996543_Buenas_Practicas_Poscosecha_de_Platano_Cachaco%2flinks%2f5ea8e4c7299bf18b95844e7c%2fBuenas-Practicas-Poscosecha-de-Platano-Cachaco.pdf/RK=2/RS=Y4369xmfoEnYLigfiCwfP8Zkf_8-',
     },
     {
       referencia:

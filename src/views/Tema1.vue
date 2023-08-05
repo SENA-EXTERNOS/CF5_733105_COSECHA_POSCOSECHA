@@ -39,7 +39,7 @@
 
         .row(titulo="Crecimiento de la planta y desarrollo del fruto").align-items-center
           .col-md-8.mb-4.mb-md-0.mt-5
-            p.fnd-1 Para así lograr un adecuado crecimiento de la planta y desarrollo del fruto teniendo en cuenta factores que controlan los procesos que ayudan a determinar la calidad del producto en el momento de la recolección, e igualmente su comportamiento y vida comercial durante la poscosecha.
+            p.fnd-1 Para así lograr un adecuado crecimiento de la planta y desarrollo del fruto, teniendo en cuenta factores que controlan los procesos que ayudan a determinar la calidad del producto en el momento de la recolección, e igualmente su comportamiento y vida comercial durante la poscosecha.
           .col-md-3
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema1/img2.png', alt='')
@@ -84,7 +84,7 @@
                 img(src="@/assets/curso/temas/tema1/img7.png", alt="alt").img100
             .col
               h5 Fertilización 
-              p Es fundamental para el desarrollo y producción de las plantas debido a que una planta bien alimentada no es susceptible al ataque de diversas enfermedades o insectos; además logra efectuar sus procesos fotosintéticos y mecanismos de defensa frente a agentes patógenos o cambios de temperaturas alcanzando así su rango óptimo para cada tipo de cultivo.
+              p Es fundamental para el desarrollo y producción de las plantas debido a que una planta bien alimentada no es susceptible al ataque de diversas enfermedades o insectos; además logra efectuar sus procesos fotosintéticos y mecanismos de defensa frente a agentes patógenos o cambios de temperaturas, alcanzando así su rango óptimo para cada tipo de cultivo.
       .col-md-11.mb-2
         .crd.crd--avatarHorizontal.py-4
           .row.align-items-center
@@ -102,7 +102,7 @@
                 img(src="@/assets/curso/temas/tema1/img9.png", alt="alt").img100
             .col
               h5 Control de arvenses  
-              p Debido a que existen arvenses que generan competencia por luz solar y nutrientes, las cuales necesitan un mantenimiento adecuado con el fin de evitar ser causantes y hospederas de enfermedades y plagas que afectan los cultivos, sin desproteger el suelo ya que esto puede aumentar las afectaciones directas a la planta por desequilibrio del agroecosistema que habita en el área.
+              p Debido a que existen arvenses que generan competencia por luz solar y nutrientes, las cuales necesitan un mantenimiento adecuado con el fin de evitar ser causantes y hospederas de enfermedades y plagas que afectan los cultivos, sin desproteger el suelo, ya que esto puede aumentar las afectaciones directas a la planta por desequilibrio del agroecosistema que habita en el área.
 
       .col-md-11.mb-2
         .crd.crd--avatarHorizontal.py-4
@@ -171,7 +171,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img13.png', alt='')    
           .col-md-7
-            p.text-justify Determinan el momento de cosecha por sus cambios fisiológicos en frutos y vegetales, tales comrowo: la desaparición de astringencia, sabor agrio, cambios en acidez, síntesis de pigmentos con eliminación de clorofila, ablandamiento de tejidos por degradación de la pectina y desarrollo de aromas y sabores.
+            p.text-justify Determinan el momento de cosecha por sus cambios fisiológicos en frutos y vegetales, tales como: la desaparición de astringencia, sabor agrio, cambios en acidez, síntesis de pigmentos con eliminación de clorofila, ablandamiento de tejidos por degradación de la pectina y desarrollo de aromas y sabores.
             p.text-justify Estos cambios en las frutas y verduras, permiten obtener el sabor natural de los frutos y las verduras cultivadas. 
             p.text-justify Además, la actividad respiratoria de estos permite clasificar los frutos en dos categorías.
       div(titulo="Frutos climatéricos").px-5.py-3
@@ -181,7 +181,7 @@
               img(src='@/assets/curso/temas/tema1/img14.png', alt='')    
           .col-md-7
             p.text-justify Las especies climatéricas tienen el aumento de la síntesis de etileno, el cual actúa como responsable del inicio de la maduración y dota al fruto de un mayor potencial para su regulación y de la posibilidad de continuar el proceso una vez recolectado, siempre y cuando haya adquirido la “capacidad para madurar”. 
-            p.text-justify Este comportamiento permite flexibilizar su recolección ya que se puede realizar durante cierto tiempo, en función de que su comercialización se efectúe inmediatamente, o tras la conservación frigorífica.            
+            p.text-justify Este comportamiento permite flexibilizar su recolección, ya que se puede realizar durante cierto tiempo, en función de que su comercialización se efectúe inmediatamente, o tras la conservación frigorífica.            
  
       div(titulo="Frutos no climatéricos").px-5.py-3
         .row
@@ -209,7 +209,7 @@
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative
             .number(data-number="01")
               h4.ps-4 Estrés por factores medioambientales
-              p.ps-4.mb-0 Además, las plantas son vulnerables a diferentes tipos de estrés generados por factores medioambientales que influyen en sus diferentes procesos; factores como la sequía, temperaturas extremas y exceso de luz, los cuales deberán ser controlados durante el cultivo dado que la planta requiere de un mayor aporte para responder a las necesidades de sus frutos. 
+              p.ps-4.mb-0 Además, las plantas son vulnerables a diferentes tipos de estrés generados por factores medioambientales que influyen en sus diferentes procesos; factores como la sequía, temperaturas extremas y exceso de luz, los cuales deberán ser controlados durante el cultivo, dado que la planta requiere de un mayor aporte para responder a las necesidades de sus frutos. 
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema1/img17.png')
@@ -226,7 +226,7 @@
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative
             .number(data-number="03")
               h4.ps-4 Inundaciones
-              p.ps-4.mb-0 El exceso de riego puede afectar tan rápido la planta como su carencia, pues lleva a la falta de oxígeno para las raíces, que estas respiren de forma anaeróbica y se desate la producción de compuestos tóxicos en la planta. Los síntomas de un exceso de riego inciden no solo en el marchitamiento de la planta sino en el amarillamiento de las hojas, la podredumbre del sistema radicular y la ausencia de crecimiento. 
+              p.ps-4.mb-0 El exceso de riego puede afectar tan rápido la planta como su carencia, pues lleva a la falta de oxígeno para las raíces, que estas respiren de forma anaeróbica y se desate la producción de compuestos tóxicos en la planta. Los síntomas de un exceso de riego inciden no solo en el marchitamiento de la planta, sino en el amarillamiento de las hojas, la podredumbre del sistema radicular y la ausencia de crecimiento. 
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema1/img19.png')   
@@ -278,7 +278,7 @@
 
     .row.justify-content-center.mt-5 
       .col-md-6.mt-5
-        p Los índices de madurez también pueden llegar a ser características de calidad externa (apariencia) que se relacionan con factores como consistencia, color o textura, contenido de pulpa o jugo, contenido de azúcar, etc. Por esta razón se requiere que los índices sean objetivos para asegurar la aceptabilidad de su calidad ante el consumidor a la hora de hacer la recolección, tal como se aprecia a continuación:
+        p Los índices de madurez también pueden llegar a ser características de calidad externa (apariencia) que se relacionan con factores como consistencia, color o textura, contenido de pulpa o jugo, contenido de azúcar, etc. Por esta razón, se requiere que los índices sean objetivos para asegurar la aceptabilidad de su calidad ante el consumidor a la hora de hacer la recolección, tal como se aprecia a continuación:
       .col-md-6
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema1/img25.png', alt='') 
@@ -287,7 +287,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido.mt-5
       h2 1.2 Requisitos e índices   
 
-    p.mt-5.mb-5 Específicamente, a la hora de la cosecha se deben tener presentes requisitos e índices que permitan llevar a cabo la recolección en el momento adecuado a fin de obtener productos con características acordes a las exigidas para ofrecer al mercado y según los márgenes de calidad establecidos. Por ejemplo:
+    p.mt-5.mb-5 Específicamente, a la hora de la cosecha se deben tener presentes requisitos e índices que permitan llevar a cabo la recolección en el momento adecuado, a fin de obtener productos con características acordes a las exigidas para ofrecer al mercado y según los márgenes de calidad establecidos. Por ejemplo:
     .row.mt-5.gx-5.align-self-stretch 
       .col-lg-6.mb-md-5
         .p-3.color-columnas 
