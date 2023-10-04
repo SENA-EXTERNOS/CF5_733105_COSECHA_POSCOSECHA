@@ -167,7 +167,7 @@
             p Son aquellos empleados cuando se requiere del agua y, en algunas ocasiones, de soluciones o productos químicos con propiedades desinfectantes que mejoran el resultado. Por tanto, mediante este método no solo se logran eliminar materiales extraños y contaminantes, sino que también se pueden remover los residuos de fertilizantes y agroquímicos. 
             p Son los métodos húmedos más utilizados, la aspersión, la inmersión y la flotación.
             figure.mx-5
-              img(src='@/assets/curso/temas/tema2/img14.png', alt='')
+              img(src='@/assets/curso/temas/tema2/img14.svg', alt='')
 
         .row(titulo="Métodos de limpieza secos")
           .col-md-10.mb-4.mb-md-0.mt-3
@@ -409,7 +409,7 @@
           img(src='@/assets/curso/temas/tema2/img34.png', alt='')         
       .col-md-6
         .row.align-items-end.bg6 
-          p.mx-3 Los sistemas de información en la empresa  La temperatura y humedad que deben estar monitoreadas y controladas.  
+          p.mx-3 Los sistemas de información en la empresa, la temperatura y humedad que deben estar monitoreadas y controladas.  
         .row.align-items-end.bg6 
           p.mx-3 El diseño adecuado que permite la circulación de aire.
         .row.align-items-end.bg6 

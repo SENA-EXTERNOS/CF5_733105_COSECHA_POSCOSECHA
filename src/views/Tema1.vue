@@ -163,7 +163,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido.mt-5
       h2 1.1  Factores fisiológicos
 
-    p.mt-5.mb-5 Aunque con la cosecha se interrumpan algunos procesos fisiológicos que realizan las plantas, otros continúan: la respiración, que consiste en la oxidación de sustancias orgánicas de alto potencial de energía, a través del intercambio gaseoso entre el fruto y la atmósfera, en compuestos más sensibles de menor potencial; la transpiración, la cual se da por el alto porcentaje de agua en las frutas y hortalizas; la maduración, que es un evento programado genéticamente y que implica, con síntesis de enzimas, la expresión de genes específicos; veamos los factores fisiológicos:  
+    p.mt-5.mb-5 Aunque con la cosecha se interrumpen algunos procesos fisiológicos que realizan las plantas, otros continúan: la respiración, que consiste en la oxidación de sustancias orgánicas de alto potencial de energía, a través del intercambio gaseoso entre el fruto y la atmósfera, en compuestos más sensibles de menor potencial; la transpiración, la cual se da por el alto porcentaje de agua en las frutas y hortalizas; la maduración, que es un evento programado genéticamente y que implica, con síntesis de enzimas, la expresión de genes específicos; observe los factores fisiológicos:  
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
       .row(titulo="Factores fisiológicos ").px-5.py-2
         .row
@@ -326,7 +326,7 @@
                 img(src='@/assets/curso/temas/tema1/img27.png', alt='')             
             .col-md-10
               h5 Sensoriales
-              p.mt-3  Como el color (determinado por la tabla colorimétrica), además del sabor y el aroma característicos. Porque las personas podemos procesar información por la vista, el olor y el tacto, e instantáneamente, según texturas, aromas y sabores almacenados en nuestra memoria, podemos catalogar un producto.
+              p.mt-3  Como el color (determinado por la tabla colorimétrica), además del sabor y el aroma característicos. Porque las personas pueden procesar información por la vista, el olor y el tacto, e instantáneamente, según texturas, aromas y sabores almacenados en la memoria, se puede catalogar un producto.
               p Por ejemplo, con solo mirar el color, el productor sabe que un fruto está inmaduro y que no tiene buen sabor, textura o aroma. Si el color no es suficiente para evaluar la madurez, utiliza las manos para medir la firmeza y otras características perceptibles del producto, incluido el aroma, que se convierte en un parámetro menos utilizado, y solo en aquellas frutas o verduras en las que se asocia a la madurez, como el melón o el ananá.             
 
           .row 
@@ -355,7 +355,7 @@
                 img(src='@/assets/curso/temas/tema1/img30.png', alt='')             
             .col-md-10
               h5 Índice de maduración
-              p.mt-3.mb-3  Pero adicional a estos, un índice determinante es el de maduración. Se encuentran diferentes tipos de madurez:
+              p.mt-3.mb-3  Un índice determinante es el de maduración. Se encuentran diferentes tipos de madurez:
               
           .row.mb-5 
             hr.mt-2
